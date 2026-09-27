@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated images / intermediate results
+temp/
+temp_2/
+cells/
+
+# Generated output
+result.xlsx
+
+# IDE
+.vscode/
+.idea/
